@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ALManriqueJR
 - 👀 I’m interested in Java, Japanese and Drawing
-- 🌱 I’m currently learning Java, Japanese and Drawing
+- 🌱 I’m currently learning Java, Japanese
 - 📫 How to reach me alessandromanriquejunior@gmail.com or alessandro.manrique@fatec.sp.gov.br
 
 <!---

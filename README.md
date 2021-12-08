@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ALManriqueJR
 - 👀 I’m interested in Java, Japanese and Drawing
-- 🌱 I’m currently learning Java and Japanese
-- 📫 How to reach me alessandromanriquejunior@gmail.com or alessandro.manrique@fatec.sp.gov.br
+- 🌱 I’m currently learning Java
+- 📫 How to reach me alessandromanriquejunior@gmail.com
 
 <!---
 ALManriqueJR/ALManriqueJR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

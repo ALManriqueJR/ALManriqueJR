@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @ALManriqueJR
-- 🌱 I’m currently learning RPA's(Robot Framework)
+- 🌱 I’m currently learning
 - 📫 How to reach me alessandromanriquejunior@gmail.com
-
-Básico de Java & Python, criação de sites com Bootstrap.

@@ -1,3 +1,5 @@
 - 👋 Hi, I’m @ALManriqueJR
-- 🌱 I’m currently learning
-- 📫 How to reach me alessandromanriquejunior@gmail.com
+ alessandromanriquejunior@gmail.com
+
+
+[![AL's GitHub stats](https://github-readme-stats.vercel.app/api?username=ALManriqueJR)](https://github.com/ALManriqueJR/github-readme-stats)
